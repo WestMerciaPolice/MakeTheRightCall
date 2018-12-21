@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Make the Right Call</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@WMerciaPolice">
+  <meta name="twitter:title" content="#MakeTheRightCall">
+  <meta name="twitter:description" content="How would you handle the huge variety of calls we receive? The power’s in your hands in our #PolicingMatters game.">
+  <meta name="twitter:image:src" content="http://www.surrey.police.uk/portals/0/Images/news/Neighbourhoods/PIYN-Game-Screen-1.JPG">
+  <style>
+    html, body, #game {
+      background-color: #0b1627;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    canvas {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      margin: auto;
+    }
+
+    #orientation {
+      display: none;
+    }
+
+    .mobile #orientation {
+      z-index: 100;
+      color: white;
+      font-size: 1.2rem;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      background: #0b1627;
+    }
+
+    .mobile #orientation p {
+      display: inline-block;
+      text-align: center;
+      position: absolute;
+      width: 50%;
+      height: 20%;
+      top: 50%;
+      left: 50%;
+      margin-left: -25%;
+      margin-top: -15%;
+    }
+
+    @media screen and (orientation: portrait) {
+      .mobile #orientation { display: block }
+    }
+  </style>
+</head>
+<body>
+
+  <div id="orientation">
+      <p>Please rotate your device to landscape mode.</p>
+  </div>
+  <div id="game"></div>
+
+  <a id="facebook" href="" target="_blank"></a>
+  <a id="twitter" href="" target="_blank"></a>
+  <a id="search" href="" target="_blank"></a>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'ENTER_YOUR_GOOGLE_ANALYTICS_IDENTIFIER_HERE', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/phaser/2.4.4/custom/phaser-arcade-physics.min.js"></script>
+  <script>
+  if (typeof Phaser == 'undefined') {
+      document.write(unescape("%3Cscript src='js/lib/phaser-arcade-physics.min.js' %3E%3C/script%3E"));
+  }
+  </script>
+  <!--<script src="js/lib/script.min.js"></script>
+  <script src="js/main.js"></script>-->
+  <script src="build.min.js"></script>
+
+</body>
+</html>

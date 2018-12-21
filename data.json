@@ -1,0 +1,238 @@
+[
+  {
+      "text" : "There's a horse loose on the motorway",
+      "answer" : 1
+  },
+  {
+      "text" : "I think there's a burglar in my house",
+      "answer" : 1
+  },
+  {
+      "text" : "People sleeping rough in town centre",
+      "answer" : 0
+  },
+  {
+      "text" : "The neighbour's fence is leaning into my garden.",
+      "answer" : 3
+  },
+    {
+      "text" : "I've found a dog in the park.",
+      "answer" : 0
+  },
+    {
+      "text" : "I've had a power cut.",
+      "answer" : 0
+  },
+  {
+      "text" : "Minor, no injury traffic collision. Details exchanged.",
+      "answer" : 3
+  },
+  {
+      "text" : "Threatening message on Facebook",
+      "answer" : 2
+  },
+  {
+      "text" : "Van broken in to",
+      "answer" : 2
+  },
+  {
+      "text" : "Fly tipping",
+      "answer" : 0
+  },
+  {
+      "text" : "I've lost my phone",
+      "answer" : 3
+  },
+  {
+      "text" : "Serious injury traffic collision",
+      "answer" : 1
+  },
+  {
+      "text" : "2am - noisy party next door",
+      "answer" : 0
+  },
+  {
+      "text" : "Lorry breakdown on the motorway - lane blocked",
+      "answer" : 1
+  },
+  {
+      "text" : "Car broken down. Men walking on hard-shoulder",
+      "answer" : 3
+  },
+  {
+      "text" : "Car blocking my driveway",
+      "answer" : 0
+  },
+  {
+      "text" : "Missing person with known health issues",
+      "answer" : 1
+  },
+  {
+      "text" : "Husband hit me yesterday",
+      "answer" : 1
+  },
+  {
+      "text" : "Spotted - wanted male for robbery",
+      "answer" : 1
+  },
+  {
+      "text" : "Blown tyre - fast lane of the motorway",
+      "answer" : 1
+  },
+  {
+      "text" : "Petrol theft",
+      "answer" : 2
+  },
+  {
+      "text" : "Vandalism",
+      "answer" : 2
+  },
+  {
+      "text" : "Dog fouling",
+      "answer" : 0
+  },
+  {
+      "text" : "She's breaching her harrassment order",
+      "answer" : 1
+  },
+  {
+      "text" : "Car alarm going off",
+      "answer" : 3
+  },
+  {
+      "text" : "Friend taken overdose",
+      "answer" : 0
+  },
+  {
+      "text" : "Credit card fraud - £40",
+      "answer" : 0
+  },
+  {
+    "text" : "I've no phone credit",
+    "answer" : 3
+  },
+  {
+    "text" : "Graffiti at the park",
+    "answer" : 0
+  },
+  {
+    "text" : "Man trying car door handles",
+    "answer" : 1
+  },
+  {
+    "text" : "Ex-girlfriend stolen my laptop",
+    "answer" : 2
+  },
+  {
+    "text" : "Youths kicking a ball, damaging a bus shelter",
+    "answer" : 2
+  },
+  {
+    "text" : "Street brawl in action",
+    "answer" : 1
+  },
+  {
+    "text" : "Argument with carpark warden",
+    "answer" : 3
+  },
+  {
+    "text" : "Verbally aggressive neighbour",
+    "answer" : 2
+  },
+  {
+    "text" : "I can't find a hotel",
+    "answer" : 3
+  },
+  {
+    "text" : "Littering",
+    "answer" : 0
+  },
+  {
+    "text" : "I need a lift home",
+    "answer" : 3
+  },
+  {
+    "text" : "Murder",
+    "answer" : 1
+  },
+  {
+    "text" : "Shed break-in",
+    "answer" : 2
+  },
+  {
+    "text" : "I've been drugged",
+    "answer" : 1
+  },
+  {
+    "text" : "Car on fire on the motorway",
+    "answer" : 1
+  },
+  {
+    "text" : "Customer saying restaurant bill too high",
+    "answer" : 3
+  },
+  {
+    "text" : "My parcel hasn't arrived yet",
+    "answer" : 3
+  },
+  {
+    "text" : "Partner just tried to strangle me",
+    "answer" : 1
+  },
+  {
+    "text" : "People smoking ‎marijuana",
+    "answer" : 2
+  },
+  {
+    "text" : "Men fighting outside a pub",
+    "answer" : 1
+  },
+  {
+    "text" : "Wheelbarrow on fast lane of the motorway",
+    "answer" : 1
+  },
+  {
+    "text" : "Housemate accused me of stealing his banana",
+    "answer" : 3
+  },
+  {
+    "text" : "I know who's been stealing from my shop",
+    "answer" : 2
+  },
+  {
+    "text" : "Suspicious man near a school",
+    "answer" : 1
+  },
+  {
+    "text" : "Traffic collision - all ok",
+    "answer" : 3
+  },
+  {
+    "text" : "Vehicle obstructing country lane",
+    "answer" : 3
+  },
+  {
+    "text" : "Someone's cloned my credit card",
+    "answer" : 0
+  },
+  {
+    "text" : "A dog fight has been arranged",
+    "answer" : 2
+  },
+  {
+    "text" : "Landlord hasn't given deposit back",
+    "answer" : 3
+  },
+  {
+    "text" : "My dog's been bitten by another dog",
+    "answer" : 3
+  },
+  {
+    "text" : "Cars parked on double yellow lines",
+    "answer" : 0
+  },
+  {
+    "text" : "Car parked in disabled bay with no badge",
+    "answer" : 0
+  }
+]
